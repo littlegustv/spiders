@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiders", "Assembly-CSharp.csproj", "{6770B9B4-B1BE-F993-AB6B-16C78807F793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiders", "Assembly-CSharp-Editor.csproj", "{77178C4C-A9AC-56E6-9F3E-CF0CAA937344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6770B9B4-B1BE-F993-AB6B-16C78807F793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6770B9B4-B1BE-F993-AB6B-16C78807F793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6770B9B4-B1BE-F993-AB6B-16C78807F793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6770B9B4-B1BE-F993-AB6B-16C78807F793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77178C4C-A9AC-56E6-9F3E-CF0CAA937344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77178C4C-A9AC-56E6-9F3E-CF0CAA937344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77178C4C-A9AC-56E6-9F3E-CF0CAA937344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77178C4C-A9AC-56E6-9F3E-CF0CAA937344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
